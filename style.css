@@ -1,5 +1,6 @@
 body {
                   font-family: 'Poppins', sans-serif;
+
 }
 
 h1 {
@@ -8,7 +9,12 @@ h1 {
 
 .brown-color {
                   color: brown;
+
 }
+
+
+
+
 
 section {
                   display: flex;
@@ -20,7 +26,7 @@ section {
 }
 
 .half-width img {
-                  width: 70%;
+                  width: 60%;
 }
 
 .red-color {
@@ -71,4 +77,13 @@ section {
 #blue-color {
                   background-color: rgb(161, 161, 234);
                   border-radius: 8px;
+}
+
+.orange-color {
+                  background-color: rgb(222, 80, 109);
+                  text-align: center;
+}
+
+.cyan-color {
+                  background-color: rgb(8, 98, 98);
 }
